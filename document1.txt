@@ -1,6 +1,5 @@
-print("집 가고 싶다!!!")
-print("근데 못 가...ㅋ")
- 
+print("배고프다 아임 헝그리")
+
 def quicksort(l, r, nums):
     if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!
         return nums
